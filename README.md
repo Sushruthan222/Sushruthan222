@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushruthan U</h1>
-<h3 align="center"> Automobile Engineer | AI/ML Engineer | Computer Vision & Deep Learning</h3>
+<h3 align="center"> Automobile Engineer | AI/ML Engineer | Computer Vision & Deep Learning</h3>   
+
+
 
 - 🔭 I’m currently working on [Advanced_lane_detection](https://github.com/Sushruthan222/ML-OpenCv-projects/tree/main/Advanced%20Lane%20detection)
 
@@ -22,3 +24,7 @@
 <a href="https://www.linkedin.com/in/sushruthan-u-67750a180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sushruthan-u-67750a180/" height="30" width="40" /></a>
 <a href="https://twitter.com/SushruthanU" target="blank"><img align="center" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="https://twitter.com/SushruthanU" height="30" width="40" /></a>
 </p>
+
+
+
+![](https://komarev.com/ghpvc/?username=Sushruthan222)

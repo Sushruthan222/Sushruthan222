@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for opportunities in **Deep learning and Computer vision**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@sushruthan222)
-
 - 💬 Ask me about **Python, OpenCV, Machine learning**
 
 - 📫 How to reach me **sushruthan22@gmail.com**
